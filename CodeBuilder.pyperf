@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectTarget>
+    <TargetProject>f71a0ea9-8ac8-4b9a-ad27-cbe70d4590ad</TargetProject>
+    <FriendlyName>CodeBuilder</FriendlyName>
+  </ProjectTarget>
+  <Reports>
+    <Report>
+      <Filename>C:\Users\Daniel\AppData\Local\Temp\CodeBuilder_20180126.vsp</Filename>
+    </Report>
+  </Reports>
+</ProfilingTarget>

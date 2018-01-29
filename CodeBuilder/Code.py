@@ -1,0 +1,17 @@
+b = print(chr(72))
+e = print("e")
+c = chr(54) + str(print("l"))
+a = 58
+d = print("l")
+b = "0" + "H"
+b = print(" ")
+e = print("w")
+e = print(chr(ord("o")))
+c = 28 * 40
+d = "l" + "d"
+b = d + str(e)
+d = print(d)
+b = 33
+e = print(chr(b))
+a = ord(".")
+b = 83 / 21

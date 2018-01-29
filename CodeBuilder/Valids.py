@@ -1,0 +1,7 @@
+valid_var_names = ['a', 'b', 'c', 'd', 'e']
+valid_func_names = ['A', 'B', 'C', 'D', 'E']
+valid_funcs = ['chr', 'float', 'ord', 'print', 'round', 'str', 'sum']
+#valid_funcs = ['abs', 'bool', 'chr', 'float', 'id', 'len', 'ord', 'print', 'round', 'str', 'sum', 'type']
+operations = ['object', 'add', 'subtract', 'multiply', 'divide']
+#operations = ['object', 'add', 'subtract', 'multiply', 'divide', 'equals', 'not_equals']
+objects = ['int', 'string', 'var', 'function']
